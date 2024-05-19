@@ -10,7 +10,7 @@ Reference: [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Sha
 - [x] Scaffold basic ui with mock data
 - [x] Tidy up build process
 - [x] Actually set up a database (vercel postgres)
-- [] Attach database to UI
+- [x] Attach database to UI
 - [] Add authentication (w/ clerk)
 - [] Add image upload
 - [] "taint" (server-only)
