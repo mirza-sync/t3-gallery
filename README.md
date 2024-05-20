@@ -11,7 +11,7 @@ Reference: [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Sha
 - [x] Tidy up build process
 - [x] Actually set up a database (vercel postgres)
 - [x] Attach database to UI
-- [] Add authentication (w/ clerk)
+- [x] Add authentication (w/ clerk)
 - [] Add image upload
 - [] "taint" (server-only)
 - [] Use Next/Image component
