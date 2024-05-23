@@ -13,7 +13,7 @@ Reference: [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Sha
 - [x] Attach database to UI
 - [x] Add authentication (w/ clerk)
 - [x] Add image upload
-- [] "taint" (server-only)
+- [x] "taint" (server-only). [Explanation](https://www.youtube.com/watch?v=JrKBinrMGR4)
 - [] Use Next/Image component
 - [] Error management (w/ Sentry)
 - [] Routing/image page (parallel route)
