@@ -1,8 +1,8 @@
-# Create T3 App
+# T3 Gallery
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+An image gallery made with [T3 Stack](https://create.t3.gg/) (TNext.js, Typescript, Tailwind, TDrizzle). Wait why was it even called a T3 stack?
 
-Reference: [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)](https://www.youtube.com/watch?v=d5x0JCZbAJs)
+Reference video: [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)](https://www.youtube.com/watch?v=d5x0JCZbAJs)
 
 ## TODO
 
@@ -22,3 +22,7 @@ Reference: [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Sha
 - [] Analytics (posthog)
 - [] Delete button (w/ Server Actions)
 - [] Ratelimiting (upstash)
+
+## Dev Logs
+1. Near the end of the tutorial, I just realized I forgot to dev log this time. Missed the opportunity to document my journey doing this project 😩. But better late than never right?
+
