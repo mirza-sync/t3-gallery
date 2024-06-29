@@ -1,6 +1,6 @@
 # T3 Gallery
 
-An image gallery made with [T3 Stack](https://create.t3.gg/) (TNext.js, Typescript, Tailwind, TDrizzle). Wait why was it even called a T3 stack?
+An image gallery made with [T3 Stack](https://create.t3.gg/) (TNext.js, Typescript, Tailwind, TDrizzle, Treact Tserver Tactions). Wait why was it even called a T3 stack?
 
 Reference video: [From 0 to Production - The Modern React Tutorial (RSCs, Next.js, Shadui, Drizzle, TS and more)](https://www.youtube.com/watch?v=d5x0JCZbAJs)
 
@@ -20,7 +20,7 @@ Reference video: [From 0 to Production - The Modern React Tutorial (RSCs, Next.j
 - [x] Update upload button to be less cringe
 - [x] ShadUIify (specifically toasts)
 - [x] Analytics (posthog)
-- [] Delete button (w/ Server Actions)
+- [x] Delete button (w/ Server Actions)
 - [] Ratelimiting (upstash)
 
 ## Dev Logs
