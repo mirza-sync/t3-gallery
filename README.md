@@ -21,7 +21,14 @@ Reference video: [From 0 to Production - The Modern React Tutorial (RSCs, Next.j
 - [x] ShadUIify (specifically toasts)
 - [x] Analytics (posthog)
 - [x] Delete button (w/ Server Actions)
-- [] Ratelimiting (upstash)
+- [x] Ratelimiting (upstash)
+
+## A challenge for me
+
+- [] Fix the page layout for images of different resolutions
+- [] "Selecting" images on the gallery page
+- [] "infinite scroll"
+- [] Folders/albums
 
 ## Dev Logs
 1. Near the end of the tutorial, I just realized I forgot to dev log this time. Missed the opportunity to document my journey doing this project 😩. But better late than never right?
